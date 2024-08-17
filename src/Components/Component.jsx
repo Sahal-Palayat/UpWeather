@@ -136,7 +136,7 @@ const Component = () => {
         <source src="/snowfallvd.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video> */}
-      <img  className="absolute inset-0 w-full h-full object-cover" src="https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?cs=srgb&dl=pexels-pixabay-209831.jpg&fm=jpg" alt="" />
+      <img  className="absolute inset-0 w-full h-full object-cover" src="https://img.pikbest.com/wp/202347/weather-forecast-app-3d-illustration-of-icons-depicting-sun-and-clouds-ideal-for-design-web-with-blue-background_9761677.jpg!bw700" alt="" />
       <header className="bg-black relative bg-opacity-50 py-4 px-6 shadow">
         <div className="flex items-center">
           <div className="flex flex-col items-start">
@@ -247,8 +247,8 @@ const Component = () => {
             ) : (
               <h2 className="text-lg text-muted-foreground text-center">
                 <img
-                  className="w-56 h-56"
-                  src="https://media.tenor.com/iyOOkFq5RLQAAAAi/what-looking.gif"
+                  className="w-56 h-56 ml-10"
+                  src="https://static.thenounproject.com/png/2664394-200.png"
                   alt=""
                 />
                 Search for a location to see the weather
